@@ -1,0 +1,10 @@
+image,class,confidence
+images/bus.jpg,bus,0.873
+images/bus.jpg,person,0.866
+images/bus.jpg,person,0.853
+images/bus.jpg,person,0.825
+images/bus.jpg,person,0.261
+images/bus.jpg,stop sign,0.255
+images/zidane.jpg,person,0.836
+images/zidane.jpg,person,0.819
+images/zidane.jpg,tie,0.291

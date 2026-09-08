@@ -1,0 +1,4 @@
+ADF Statistic: -4.4448
+p-value: 0.000247
+Critical Values: {'1%': np.float64(-3.4321532327220154), '5%': np.float64(-2.862336767636517), '10%': np.float64(-2.56719413172842)}
+Conclusion: Series is STATIONARY (reject H0)

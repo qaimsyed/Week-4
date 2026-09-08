@@ -1,0 +1,5 @@
+image,inference_time_s
+images/bus.jpg,2.0024
+images/zidane.jpg,0.1036
+images/airport.jpg,0.0774
+images/boats.jpg,0.1063

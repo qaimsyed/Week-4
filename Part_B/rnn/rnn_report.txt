@@ -1,0 +1,22 @@
+=== SimpleRNN ===
+Test accuracy: 0.6985
+              precision    recall  f1-score   support
+
+           0       0.67      0.77      0.71       352
+           1       0.74      0.63      0.68       371
+
+    accuracy                           0.70       723
+   macro avg       0.70      0.70      0.70       723
+weighted avg       0.70      0.70      0.70       723
+
+=== LSTM ===
+Test accuracy: 0.7040
+              precision    recall  f1-score   support
+
+           0       0.69      0.72      0.70       352
+           1       0.72      0.68      0.70       371
+
+    accuracy                           0.70       723
+   macro avg       0.70      0.70      0.70       723
+weighted avg       0.71      0.70      0.70       723
+
